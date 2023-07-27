@@ -11,7 +11,7 @@ const router = new VueRouter({
 
 Vue.use(Frontegg, {
   contextOptions: {
-    baseUrl: 'https://master--dainty-fairy-af5e54.netlify.app',
+    baseUrl: 'https://dainty-fairy-af5e54.netlify.app',
   },
   // Replace this with your app logo 👇
   headerImage: 'https://assets.frontegg.com/public-frontegg-assets/acme-logo.svg',
